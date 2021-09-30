@@ -1,7 +1,7 @@
 # AdvancedDatabases
 Projects for the Advanced Databases course.
 
-The projects were done locally so I added them as rar files.
+Projects were done locally so I added them as rar files.
 
 1st Project (Prvi projekat.rar) - Windows Forms App "TechShop" that uses Neo4j
 
